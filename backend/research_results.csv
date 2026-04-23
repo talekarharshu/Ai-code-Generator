@@ -1,0 +1,98 @@
+Prompt,Expected Intent,Detected Intent,Intent Match?,Attempts Needed,Success Status,Generation Time (s)
+Write a JavaScript function to add two numbers.,Math_Operation,Sorting,No,1,Pass,33.84
+Write a JavaScript function to subtract two numbers.,Math_Operation,Sorting,No,1,Pass,20.46
+Write a JavaScript function to multiply two numbers.,Math_Operation,Sorting,No,1,Pass,20.86
+Write a JavaScript function to divide two numbers.,Math_Operation,Sorting,No,3,Fail,62.41
+Write a JS function to calculate the square of a number.,Math_Operation,Math_Operation,Yes,1,Pass,20.72
+Create a JavaScript function to find the cube of a number.,Math_Operation,Math_Operation,Yes,1,Pass,20.69
+Write a JavaScript function to find the remainder of two numbers.,Math_Operation,Math_Operation,Yes,1,Pass,20.84
+Create a JS function that returns true if a number is even.,Math_Operation,UI_Component,No,1,Pass,21.35
+Create a JS function that returns true if a number is odd.,Math_Operation,UI_Component,No,1,Pass,21.26
+Write a JavaScript function to calculate the area of a rectangle.,Math_Operation,Math_Operation,Yes,1,Pass,21.46
+Write a JavaScript function to calculate the perimeter of a square.,Math_Operation,Math_Operation,Yes,2,Pass,41.46
+Write a JS function to convert Celsius to Fahrenheit.,Math_Operation,Math_Operation,Yes,1,Pass,20.64
+Write a JS function to convert Fahrenheit to Celsius.,Math_Operation,Math_Operation,Yes,1,Pass,20.32
+Create a JS function to calculate simple interest.,Math_Operation,UI_Component,No,1,Pass,21.18
+Write a JavaScript function to find the maximum of two numbers.,Math_Operation,Math_Operation,Yes,3,Fail,62.61
+Write a JavaScript function to find the minimum of two numbers.,Math_Operation,Math_Operation,Yes,3,Pass,62.58
+Create a JS function to generate a random number between 1 and 10.,Math_Operation,UI_Component,No,1,Pass,21.59
+Write a JavaScript function to calculate the factorial of 5.,Math_Operation,Math_Operation,Yes,3,Pass,61.55
+Write a JavaScript function to reverse a string.,String_Manipulation,String_Manipulation,Yes,3,Fail,58.33
+Create a JS function to convert a string to uppercase.,String_Manipulation,String_Manipulation,Yes,2,Pass,42.17
+Create a JS function to convert a string to lowercase.,String_Manipulation,String_Manipulation,Yes,1,Pass,19.59
+Write a JavaScript function to find the length of a string.,String_Manipulation,String_Manipulation,Yes,3,Fail,61.68
+Write a JS function to concatenate two strings.,String_Manipulation,Math_Operation,No,1,Pass,20.45
+Create a JavaScript function to check if a string is a palindrome.,String_Manipulation,String_Manipulation,Yes,3,Fail,64.7
+Write a JS function to count the number of vowels in a word.,String_Manipulation,Math_Operation,No,3,Fail,62.5
+Write a JS function to get the first character of a string.,String_Manipulation,String_Manipulation,Yes,1,Pass,20.0
+Write a JS function to get the last character of a string.,String_Manipulation,String_Manipulation,Yes,1,Pass,19.55
+Create a JavaScript function to remove spaces from a string.,String_Manipulation,String_Manipulation,Yes,3,Fail,58.98
+Write a JS function to repeat a string 3 times.,String_Manipulation,String_Manipulation,Yes,3,Fail,74.39
+Write a JavaScript function to replace a word in a string.,String_Manipulation,String_Manipulation,Yes,3,Fail,70.44
+Create a JS function that splits a sentence into an array of words.,String_Manipulation,UI_Component,No,3,Fail,69.09
+Write a JS function to capitalize the first letter of a string.,String_Manipulation,String_Manipulation,Yes,3,Fail,62.91
+Write a JS function to check if a string contains a specific word.,String_Manipulation,String_Manipulation,Yes,1,Pass,17.54
+Write a JavaScript function to sort an array of numbers in ascending order.,Sorting,Sorting,Yes,3,Fail,64.69
+Write a JS function to sort an array of numbers in descending order.,Sorting,Sorting,Yes,3,Fail,51.26
+Create a JS function to sort an array of strings alphabetically.,Sorting,Sorting,Yes,3,Fail,63.84
+Write a JavaScript function to reverse an array.,Sorting,String_Manipulation,No,3,Pass,58.5
+Write a JS function to find the largest number in an array.,Basic_Logic,Math_Operation,No,3,Fail,62.52
+Write a JS function to find the smallest number in an array.,Basic_Logic,Math_Operation,No,1,Pass,20.93
+Create a JavaScript function to return the first element of an array.,Basic_Logic,String_Manipulation,No,1,Pass,19.82
+Create a JS function to return the last element of an array.,Basic_Logic,Math_Operation,No,3,Pass,62.28
+Write a JS function to remove the first element of an array.,Basic_Logic,String_Manipulation,No,3,Fail,68.63
+Write a JS function to add an element to the end of an array.,Basic_Logic,Math_Operation,No,3,Fail,63.67
+Create a JS function to sum all numbers in an array.,Math_Operation,Sorting,No,3,Fail,66.43
+Write JS code to create an HTML button with text 'Click Me'.,UI_Component,UI_Component,Yes,2,Pass,43.59
+Write JavaScript to change the background color of a webpage to red.,UI_Component,Math_Operation,No,3,Pass,63.42
+Create a JS function to show a browser alert with 'Hello'.,UI_Component,UI_Component,Yes,1,Pass,21.73
+Write JavaScript to hide an HTML element by ID.,UI_Component,Math_Operation,No,1,Pass,21.31
+Create JS code to generate an HTML text input field.,UI_Component,UI_Component,Yes,1,Pass,22.03
+Write JavaScript to change the text inside a div.,UI_Component,UI_Component,Yes,1,Pass,21.83
+Write a javascript function to add two numbers together.,Math_Operation,Sorting,No,1,Pass,21.48
+Create a javascript program to calculate the square root of a number.,Math_Operation,Math_Operation,Yes,2,Pass,36.63
+Write a javascript script to find if a number is prime.,Math_Operation,Math_Operation,Yes,3,Fail,70.07
+Create a javascript function to multiply three numbers.,Math_Operation,UI_Component,No,1,Pass,21.84
+Write a javascript function to calculate the area of a circle.,Math_Operation,Math_Operation,Yes,2,Pass,43.47
+Create a javascript program to check if a number is positive or negative.,Math_Operation,UI_Component,No,1,Pass,23.04
+Write a javascript script to convert km to miles.,Math_Operation,Math_Operation,Yes,1,Pass,21.59
+Create a javascript function that returns the absolute value of a number.,Math_Operation,Math_Operation,Yes,1,Pass,21.44
+Write a javascript function to find the average of a list of numbers.,Math_Operation,Math_Operation,Yes,3,Fail,65.5
+Create a javascript program to calculate 10 percent of a value.,Math_Operation,Math_Operation,Yes,1,Pass,21.82
+Write a javascript function to reverse a string.,String_Manipulation,String_Manipulation,Yes,3,Fail,60.64
+Create a javascript script to convert a string to uppercase.,String_Manipulation,String_Manipulation,Yes,1,Pass,14.3
+Write a javascript program to count how many times 'a' appears in a word.,String_Manipulation,String_Manipulation,Yes,3,Fail,64.19
+Create a javascript function to concatenate a first name and last name.,String_Manipulation,UI_Component,No,1,Pass,21.46
+Write a javascript script to check if a word is a palindrome.,String_Manipulation,String_Manipulation,Yes,3,Fail,70.68
+Create a javascript function to strip white spaces from a string.,String_Manipulation,String_Manipulation,Yes,3,Fail,60.68
+Write a javascript program to replace commas with spaces in a text.,String_Manipulation,UI_Component,No,1,Pass,22.66
+Write a javascript function to sort a list of integers.,Sorting,Sorting,Yes,3,Pass,67.19
+Create a javascript script to sort a dictionary by keys.,Sorting,UI_Component,No,1,Pass,22.89
+Write a javascript program to reverse a list.,Sorting,String_Manipulation,No,3,Fail,64.94
+Create a javascript function to return the maximum value in a list.,Basic_Logic,Math_Operation,No,3,Fail,67.65
+Write a javascript script to remove duplicates from a list.,Basic_Logic,Sorting,No,1,Pass,23.06
+Write a javascript method to add two integers.,Math_Operation,Math_Operation,Yes,1,Pass,23.5
+Create a javascript program to find the factorial of 5 using a loop.,Math_Operation,Math_Operation,Yes,3,Fail,68.99
+Write a javascript method to check if a number is even or odd.,Math_Operation,Math_Operation,Yes,3,Fail,68.74
+Create a javascript class that multiplies two floating-point numbers.,Math_Operation,UI_Component,No,1,Pass,22.64
+Write a javascript method to return the greater of two numbers.,Math_Operation,Sorting,No,1,Pass,22.16
+Create a javascript program to print the Fibonacci series up to 10.,Math_Operation,UI_Component,No,1,Pass,23.27
+Write a javascript method to calculate the volume of a sphere.,Math_Operation,Math_Operation,Yes,2,Pass,42.37
+Create a javascript program to determine if a year is a leap year.,Math_Operation,UI_Component,No,1,Pass,21.77
+Write a javascript method to reverse a String object.,String_Manipulation,String_Manipulation,Yes,3,Fail,62.07
+Create a javascript program to find the length of a String.,String_Manipulation,String_Manipulation,Yes,3,Fail,60.44
+Write a javascript method to convert a String to lower case.,String_Manipulation,String_Manipulation,Yes,1,Pass,20.98
+Create a javascript program to check if two strings are equal.,String_Manipulation,UI_Component,No,1,Pass,22.08
+Write a javascript method to extract a substring from a given string.,String_Manipulation,String_Manipulation,Yes,3,Fail,62.03
+Create a javascript program to count the number of words in a sentence.,String_Manipulation,Math_Operation,No,3,Fail,63.89
+Write a javascript method to replace all vowels in a string with 'x'.,String_Manipulation,String_Manipulation,Yes,3,Fail,65.07
+Write a javascript method to sort an array of integers using Arrays.sort.,Sorting,Sorting,Yes,3,Fail,69.28
+Create a javascript program to implement bubble sort on an array.,Sorting,Sorting,Yes,3,Fail,64.25
+Write a javascript method to find the sum of all elements in an array.,Math_Operation,Math_Operation,Yes,3,Fail,62.94
+Create a javascript program to find the largest element in an integer array.,Basic_Logic,Math_Operation,No,3,Fail,62.72
+Write a JavaScript method to copy elements from one array to another.,Basic_Logic,Sorting,No,3,Fail,66.86
+Write a C++ function to add numbers.,Math_Operation,Sorting,No,3,Fail,63.83
+Create a Ruby script to reverse text.,String_Manipulation,UI_Component,No,1,Pass,21.13
+Write a PHP function to sort an array.,Sorting,Sorting,Yes,3,Fail,57.26
+Create a Go function to find the square root.,Math_Operation,Math_Operation,Yes,3,Pass,63.27
+Write a Swift method to capitalize a string.,String_Manipulation,String_Manipulation,Yes,3,Pass,59.28

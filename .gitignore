@@ -1,0 +1,9 @@
+# Root / Backend protections
+backend/.env
+backend/__pycache__/
+backend/venv/
+*.env
+
+# Frontend protections
+frontend/node_modules/
+node_modules/
